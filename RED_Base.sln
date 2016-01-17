@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RED", "RED\RED.csproj", "{8C3BD7C8-1ADD-4726-AA20-0AE19BEC9B6D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestRED", "TestRED\TestRED\TestRED.csproj", "{5FCB5DF1-A02C-4D72-8BAF-48F68B9D6A3B}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "TestREDContent", "TestRED\TestREDContent\TestREDContent.contentproj", "{45BC8360-812F-4E24-A021-E0005E5AF2C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C3BD7C8-1ADD-4726-AA20-0AE19BEC9B6D}.Debug|x86.ActiveCfg = Debug|x86
+		{8C3BD7C8-1ADD-4726-AA20-0AE19BEC9B6D}.Debug|x86.Build.0 = Debug|x86
+		{8C3BD7C8-1ADD-4726-AA20-0AE19BEC9B6D}.Release|x86.ActiveCfg = Release|x86
+		{8C3BD7C8-1ADD-4726-AA20-0AE19BEC9B6D}.Release|x86.Build.0 = Release|x86
+		{5FCB5DF1-A02C-4D72-8BAF-48F68B9D6A3B}.Debug|x86.ActiveCfg = Debug|x86
+		{5FCB5DF1-A02C-4D72-8BAF-48F68B9D6A3B}.Debug|x86.Build.0 = Debug|x86
+		{5FCB5DF1-A02C-4D72-8BAF-48F68B9D6A3B}.Release|x86.ActiveCfg = Release|x86
+		{5FCB5DF1-A02C-4D72-8BAF-48F68B9D6A3B}.Release|x86.Build.0 = Release|x86
+		{45BC8360-812F-4E24-A021-E0005E5AF2C4}.Debug|x86.ActiveCfg = Debug|x86
+		{45BC8360-812F-4E24-A021-E0005E5AF2C4}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

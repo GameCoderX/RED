@@ -1,0 +1,18 @@
+C:\Users\Philipp\Desktop\RED\TestRED\TestRED\bin\x86\Debug\TestRED.exe
+C:\Users\Philipp\Desktop\RED\TestRED\TestRED\bin\x86\Debug\TestRED.pdb
+C:\Users\Philipp\Desktop\RED\TestRED\TestRED\bin\x86\Debug\RED.dll
+C:\Users\Philipp\Desktop\RED\TestRED\TestRED\bin\x86\Debug\RED.pdb
+C:\Users\Philipp\Desktop\RED\TestRED\TestRED\obj\x86\Debug\TestRED.csprojResolveAssemblyReference.cache
+C:\Users\Philipp\Desktop\RED\TestRED\TestRED\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Philipp\Desktop\RED\TestRED\TestRED\obj\x86\Debug\TestRED.exe
+C:\Users\Philipp\Desktop\RED\TestRED\TestRED\obj\x86\Debug\TestRED.pdb
+C:\Users\Philipp\Desktop\RED\TestRED\TestRED\bin\x86\Debug\Content\testfont.xnb
+E:\Programmierung\C Sharp\Projects\RED\TestRED\TestRED\bin\x86\Debug\Content\testfont.xnb
+E:\Programmierung\C Sharp\Projects\RED\TestRED\TestRED\bin\x86\Debug\TestRED.exe
+E:\Programmierung\C Sharp\Projects\RED\TestRED\TestRED\bin\x86\Debug\TestRED.pdb
+E:\Programmierung\C Sharp\Projects\RED\TestRED\TestRED\bin\x86\Debug\RED.dll
+E:\Programmierung\C Sharp\Projects\RED\TestRED\TestRED\bin\x86\Debug\RED.pdb
+E:\Programmierung\C Sharp\Projects\RED\TestRED\TestRED\obj\x86\Debug\TestRED.csprojResolveAssemblyReference.cache
+E:\Programmierung\C Sharp\Projects\RED\TestRED\TestRED\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Programmierung\C Sharp\Projects\RED\TestRED\TestRED\obj\x86\Debug\TestRED.exe
+E:\Programmierung\C Sharp\Projects\RED\TestRED\TestRED\obj\x86\Debug\TestRED.pdb
